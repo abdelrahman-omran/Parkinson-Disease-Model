@@ -1,1 +1,1 @@
-# Parkinson-s---Disease
+# Parkinson-Disease
